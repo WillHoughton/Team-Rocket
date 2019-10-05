@@ -14,14 +14,16 @@ cd TeamRocket
 npm install # to install dependencies
 npm run dev # to start the dev server
 ```
+You can find the server running on [http://localhost:3000](http://localhost:3000).
 
 Alternatively:
 
 ```
-Visit [https://code-a-rocket.herokuapp.com](https://code-a-rocket.herokuapp.com)
+Visit a hosted version
 ```
+You can find a hosted version at [http://code-a-rocket.herokuapp.com](http://code-a-rocket.herokuapp.com)
+]
 
-You can find the server running on [http://localhost:3000](http://localhost:3000).
 
 
 
