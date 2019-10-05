@@ -10,7 +10,7 @@ To get started:
 
 ```
 git clone https://github.com/WillHoughton/Team-Rocket
-cd TeamRocket
+cd Team-Rocket
 npm install # to install dependencies
 npm run dev # to start the dev server
 ```
