@@ -18,11 +18,8 @@ You can find the server running on [http://localhost:3000](http://localhost:3000
 
 Alternatively:
 
-```
-Visit a hosted version
-```
 You can find a hosted version at [http://code-a-rocket.herokuapp.com](http://code-a-rocket.herokuapp.com)
-]
+
 
 
 
